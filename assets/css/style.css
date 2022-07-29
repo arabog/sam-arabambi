@@ -602,6 +602,7 @@ img {
           .resume__left {
                     background: var(--container-color-alt);
                     padding-bottom: 60rem;
+                    height: 100%;
           }
 
           .resume__left,
